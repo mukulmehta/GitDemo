@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="79" started-at="2019-09-30T18:54:17 IST" finished-at="2019-09-30T18:54:17 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="79" started-at="2019-09-30T18:54:17 IST" finished-at="2019-09-30T18:54:17 IST">
+      <class name="testing.AppiumTest">
+        <test-method status="PASS" signature="browse()[pri:0, instance:testing.AppiumTest@77cd7a0]" name="browse" duration-ms="14" started-at="2019-09-30T18:54:17 IST" finished-at="2019-09-30T18:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:testing.AppiumTest@77cd7a0]" name="elementUI" duration-ms="1" started-at="2019-09-30T18:54:17 IST" finished-at="2019-09-30T18:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- testing.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
